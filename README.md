@@ -3,7 +3,7 @@
 This part is implemented on Java with Spring Boot framework.
 
 
-# Run the project
+### Run the project
 
 ```
 ./gradlew bootRun
