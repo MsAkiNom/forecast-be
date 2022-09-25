@@ -10,7 +10,7 @@ This part is implemented on Java with Spring Boot framework.
 
 ```
 
-This project is deployed [here]()
+This project is deployed [here](https://wforecast-be.herokuapp.com/)
 
 
 The frontend part is done in the following link:
