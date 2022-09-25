@@ -9,6 +9,8 @@ This part is implemented on Java with Spring Boot framework.
 ./gradlew bootRun
 ```
 
+The project runs on localhost:5000
+
 This project is deployed [here](https://wforecast-be.herokuapp.com/)
 
 
